@@ -32,14 +32,14 @@ This is a project that utilzies SwiftUI and Warmer Prod/Staging API's to build a
 
 # More Time:
 - Some things I would like to do if I had more time would be:
-1.) Include a signed In state, current app version has you login and will ask you to signin everytime you open the app. Utilize the global boolean to keep you signed in. 
-2.) Add better UI for the star rating, I would like to take time to implement the logic for how many stars should show
-3.) handle Pagination for the API Requests. This is common in the industry and something that should be included in. 
-4.) Better UI matching with the web componets, I tried to best use and match with current web UI but would like to polish it more.
-5.) Make more componets resuable, I see some componets througout the app I can inject in different places after making it modular.
-6.) Offline Support so like cahcing essential data and allow basic functionality when offline.
-7.) Better handling of a the token, its always best practice to store the tokens using KeyChain which Apple provides. Keeps is more secured.
-9.) Some of the functions in the Time utility file can be comined, if had more time I would try to combine those methods if possible.
+-  Include a signed In state, current app version has you login and will ask you to signin everytime you open the app. Utilize the global boolean to keep you signed in. 
+-  Add better UI for the star rating, I would like to take time to implement the logic for how many stars should show
+-  handle Pagination for the API Requests. This is common in the industry and something that should be included in. 
+-  Better UI matching with the web componets, I tried to best use and match with current web UI but would like to polish it more.
+-  Make more componets resuable, I see some componets througout the app I can inject in different places after making it modular.
+-  Offline Support so like cahcing essential data and allow basic functionality when offline.
+-  Better handling of a the token, its always best practice to store the tokens using KeyChain which Apple provides. Keeps is more secured.
+-  Some of the functions in the Time utility file can be comined, if had more time I would try to combine those methods if possible.
 
 
 
